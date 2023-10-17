@@ -340,6 +340,7 @@
 img {
   width: 100%;
   border-radius: 10px;
+  object-fit: cover;
 }
 
 .num {
@@ -398,7 +399,6 @@ img {
 }
 
 .img-new {
-  background-color: aqua;
   height: 200px;
   margin-bottom: 15px;
   background-size: cover;
